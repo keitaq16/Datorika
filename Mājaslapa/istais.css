@@ -1,0 +1,10 @@
+.header {
+    padding: 80px; /* some padding */
+    text-align: center; /* center the text */
+    background: #003026; /* green background */
+    color: white; /* white text color */
+  }
+  
+  .header h1 {
+    font-size: 50px;
+  }
