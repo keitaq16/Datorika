@@ -1,0 +1,12 @@
+.atteli{
+    width: 100%;
+  display: grid;
+  background-color: rgb(109, 71, 40);
+  gap: 5px;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+    
+justify-content: center; gap: 25px; flex-wrap: wrap;display: inline-block;
+   
+    width: 30%;
+ 
